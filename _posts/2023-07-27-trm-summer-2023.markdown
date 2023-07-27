@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Maths Communication intern at Tom Rocks Maths"
+date:   2023-07-27 17:15:00 +0800
+categories: maths
+---
+This summer I had the fortune to work with Dr Tom Crawford (Oxford) to create a Maths expository video, to be posted to his YouTube channel. You can watch the video [here][trm-video] (NOT ACTUALLY COMPLETED).
+
+[trm-video]: https:\\www.youtube.com
