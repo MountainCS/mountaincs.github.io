@@ -23,7 +23,7 @@ email: mountain2221@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Personal blog concerning the matters which concern me without concerns about what I can write. Quite concerning.
 baseurl: "" # the subpath of your site, e.g. /blog
-domain: mountaincs.github.io
+# domain: mountaincs.github.io
 url: "mountaincs.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  mountaincs
 
